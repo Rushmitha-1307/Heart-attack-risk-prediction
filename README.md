@@ -1,6 +1,5 @@
 # Heart Attack Risk Prediction
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 ## Project Overview
 
