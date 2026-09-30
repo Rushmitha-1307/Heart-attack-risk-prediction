@@ -1,4 +1,5 @@
 # Heart Attack Risk Prediction
+<<<<<<< HEAD
 
 ## Project Overview
 
@@ -65,3 +66,5 @@ heart-attack-risk-prediction/
 ├── heart_attack_prediction_model.pkl
 ├── requirements.txt
 └── README.md
+=======
+>>>>>>> origin/main
