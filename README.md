@@ -91,7 +91,6 @@ heart-attack-risk-prediction/
 │   └── 03_final_demo.ipynb
 │
 ├── results/
-│   │
 │   ├── supervised/
 │   │   ├── confusion_matrix.png
 │   │   ├── model_comparison.csv
@@ -103,11 +102,9 @@ heart-attack-risk-prediction/
 │       ├── kmeans_plot.png
 │       └── pca_plot.png
 │
+├── README.md
 ├── heart_attack_prediction_model.pkl
-│
-├── requirements.txt
-│
-└── README.md
+└── requirements.txt
 ```
 
 The tree above describes the intended organisation. Adjust the paths and filenames if the actual repository structure differs.
