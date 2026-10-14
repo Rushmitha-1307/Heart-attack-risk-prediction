@@ -73,7 +73,7 @@ These scores are estimates from a small test set and do not establish clinical p
 
 ### 3. Final Demonstration
 
-Notebook: `03_FinaL.ipynb`
+Notebook: `03_Final.ipynb`
 
 The final demonstration loads the saved model pipeline and uses it to make a prediction for a sample patient record. In the recorded example, the predicted label is `1`, with a model probability estimate of approximately **83.4%**. This is a model estimate for the dataset label, not a clinically validated heart-attack probability.
 
@@ -88,7 +88,7 @@ heart-attack-risk-prediction/
 ├── notebooks/
 │   ├── 01_Unsupervised_Learning.ipynb
 │   ├── 02_supervised_learning.ipynb
-│   └── 03_final_demo.ipynb
+│   └── 03_Final.ipynb
 │
 ├── results/
 │   ├── supervised/
