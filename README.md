@@ -128,7 +128,7 @@ The tree above describes the intended organisation. Adjust the paths and filenam
 
 3. Place `heart.csv` in the location expected by the notebooks.
 4. Open the notebooks in Jupyter or Google Colab and run the cells in order.
-5. For the final demonstration, ensure the saved model pipeline is available at the path expected by `03_final_demo.ipynb`.
+5. For the final demonstration, ensure the saved model pipeline is available at the path expected by `03_Final.ipynb`.
 
 ## Result Visualisations
 
@@ -139,7 +139,7 @@ The `results/` folder contains the following unsupervised-learning visualisation
 - `kmeans_plot.png` — shows the K-Means cluster assignments.
 - `dbscan_plot.png` — shows the DBSCAN cluster and noise assignments.
 
-The supervised workflow also evaluates classification performance using metrics such as accuracy, precision, recall, F1-score, confusion matrix, and ROC-AUC. Add the supervised plots and model-comparison files to `results/` if they are present in the repository.
+The supervised workflow also evaluates classification performance using metrics such as accuracy, precision, recall, F1-score, confusion matrix, and ROC-AUC. 
 
 ## Limitations
 
