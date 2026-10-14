@@ -81,25 +81,32 @@ The final demonstration loads the saved model pipeline and uses it to make a pre
 
 ```text
 heart-attack-risk-prediction/
+│
 ├── data/
 │   └── heart.csv
+│
 ├── notebooks/
 │   ├── 01_Unsupervised_Learning.ipynb
 │   ├── 02_supervised_learning.ipynb
 │   └── 03_final_demo.ipynb
-├── results/
-├── supervised/
-│   ├── confusion_matrix.png
-│   ├── model_comparison.csv
-│   └── roc_curve.png
 │
-└── unsupervised/
-    ├── correlation_matrix.png
-    ├── dbscan_plot.png
-    ├── kmeans_plot.png
-    └── pca_plot.png
+├── results/
+│   │
+│   ├── supervised/
+│   │   ├── confusion_matrix.png
+│   │   ├── model_comparison.csv
+│   │   └── roc_curve.png
+│   │
+│   └── unsupervised/
+│       ├── correlation_matrix.png
+│       ├── dbscan_plot.png
+│       ├── kmeans_plot.png
+│       └── pca_plot.png
+│
 ├── heart_attack_prediction_model.pkl
+│
 ├── requirements.txt
+│
 └── README.md
 ```
 
